@@ -16,7 +16,7 @@ ACCESS_TOKEN_VK = "Ваш access_token от VK"
 PARAMS_INFO = {
     "access_token": ACCESS_TOKEN_VK,
     "v": "5.131",  # Версия API ВКонтакте
-    "user_ids": "ualrdykno",  # Имя пользователя или его ID
+    "user_ids": "Заменить на свой id из VK",  # Имя пользователя или его ID
     "fields": "photo_id",  # Поля, которые вы хотите получить (например, photo_id)
 }
 
