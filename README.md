@@ -61,6 +61,8 @@
 
     # Ваш access_token от VK
     ACCESS_TOKEN_VK = "ваш_access_token_vk"
+
+    "user_ids": "Заменить на свой id из VK",  # Имя пользователя или его ID
     ```
 
 ## Использование
